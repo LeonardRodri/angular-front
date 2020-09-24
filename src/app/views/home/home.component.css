@@ -1,0 +1,17 @@
+.home{
+    background-color: white;
+}
+
+.home .title{
+    text-align: center;
+    font-size: 3rem;
+    font-weight:300;
+    line-height:1.2;
+}
+.home .subtitle{
+    font-size: 1.1em;
+    font-weight:300;
+    line-height:1.2;
+    text-align: right;
+}
+

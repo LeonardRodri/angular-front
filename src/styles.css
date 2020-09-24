@@ -1,0 +1,25 @@
+/* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+
+
+.roxo{
+    color: #800080;
+}
+
+.branco{
+    color: white;
+}
+
+.background-white{
+    background-color: white;
+    color: black;
+
+}
+
+
+.v-middle{
+    vertical-align: middle;
+}
